@@ -257,8 +257,4 @@ UI Test – Neg\_UI\_0001
 
 
 
-Notes
 
-	Backend APIs, performance testing, and security testing are out of scope
-	English technical terms (e.g., Email, WhatsApp) are expected to remain unchanged
-	The automation focuses on functional correctness and UI behavior
