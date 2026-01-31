@@ -118,36 +118,27 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - generic [ref=e131]:
-            - textbox "Input Your Singlish Text Here." [active] [ref=e132]: mama oyatath ekka pickme ekak dhannam . ethakota leesiy nedha?
-            - list [ref=e134]:
-              - listitem [ref=e135] [cursor=pointer]: නෙඩීස්
-              - listitem [ref=e136] [cursor=pointer]: නෙදර්ලන්තයේ
-              - listitem [ref=e137] [cursor=pointer]: නෙදර්ලන්තයේ මුදල් ඒකකය
-              - listitem [ref=e138] [cursor=pointer]: ණෙද?
-              - listitem [ref=e139] [cursor=pointer]: ණෙධ?
-              - listitem [ref=e140] [cursor=pointer]: නෙද?
-              - listitem [ref=e141] [cursor=pointer]: නෙධ?
-          - generic [ref=e142]:
-            - button "Open File" [ref=e143] [cursor=pointer]:
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: havasata /mama ennam.
+          - generic [ref=e133]:
+            - button "Open File" [ref=e134] [cursor=pointer]:
+              - img [ref=e135]
+            - button "Copy" [ref=e137] [cursor=pointer]:
+              - img [ref=e138]
+            - button "Cut" [ref=e140] [cursor=pointer]:
+              - img [ref=e141]
+            - button "Paste" [ref=e143] [cursor=pointer]:
               - img [ref=e144]
-            - button "Copy" [ref=e146] [cursor=pointer]:
+            - button "Clear" [ref=e146] [cursor=pointer]:
               - img [ref=e147]
-            - button "Cut" [ref=e149] [cursor=pointer]:
-              - img [ref=e150]
-            - button "Paste" [ref=e152] [cursor=pointer]:
-              - img [ref=e153]
-            - button "Clear" [ref=e155] [cursor=pointer]:
-              - img [ref=e156]
-        - button "Swap Languages" [ref=e159] [cursor=pointer]:
-          - img [ref=e160]
-        - generic [ref=e162]:
-          - generic [ref=e163]: Sinhala
-          - generic [ref=e164]: මම ඔයටත් එක්ක පිcක්මෙ එකක් දන්නම් . එතකොට ලේසිය් නේද?
-          - generic [ref=e165]:
-            - button "Copy" [ref=e166] [cursor=pointer]:
-              - img [ref=e167]
-            - button "Clear" [ref=e169] [cursor=pointer]:
-              - img [ref=e170]
-      - button "Clear" [ref=e173] [cursor=pointer]: 🗑️ Clear
+        - button "Swap Languages" [ref=e150] [cursor=pointer]:
+          - img [ref=e151]
+        - generic [ref=e153]:
+          - generic [ref=e154]: Sinhala
+          - generic [ref=e155]: හවසට /මම එන්නම්.
+          - generic [ref=e156]:
+            - button "Copy" [ref=e157] [cursor=pointer]:
+              - img [ref=e158]
+            - button "Clear" [ref=e160] [cursor=pointer]:
+              - img [ref=e161]
+      - button "Clear" [ref=e164] [cursor=pointer]: 🗑️ Clear
 ```
